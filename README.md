@@ -1,2 +1,3 @@
 # cmb
-Core's Military Boards
+Core's Military Boards for gmod military rp
+
